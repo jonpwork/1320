@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background: radial-gradient(circle at top, #111 0%, #000 70%);
+  color: #e6d7a3;
+}
+
+header {
+  text-align: center;
+  padding: 30px 10px;
+}
+
+.container {
+  max-width: 480px;
+  margin: auto;
+  padding: 20px;
+}
+
+.converter {
+  text-align: center;
+}
+
+input, button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  font-size: 1em;
+  border-radius: 6px;
+  border: none;
+}
+
+button {
+  background: #c9a24d;
+  color: #000;
+  cursor: pointer;
+}
+
+.resultado {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.oculto {
+  display: none;
+}
+
+blockquote {
+  font-style: italic;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+.oraculo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  font-size: 0.9em;
+}
+
+#mandala {
+  margin: 20px auto;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  border: 3px solid #c9a24d;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.8em;
+}
+
+footer a {
+  display: block;
+  color: #c9a24d;
+  text-decoration: none;
+  margin: 4px 0;
+}

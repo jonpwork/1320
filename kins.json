@@ -1,0 +1,2082 @@
+{
+  "1": {
+    "nome": "Dragão Vermelho Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a vermelho. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "2": {
+    "nome": "Vento Branco Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a branco. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "3": {
+    "nome": "Noite Azul Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a azul. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "4": {
+    "nome": "Semente Amarela Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a amarela. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "5": {
+    "nome": "Serpente Vermelha Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a vermelha. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "6": {
+    "nome": "Enlaçador de Mundos Branco Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a branco. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "7": {
+    "nome": "Mão Azul Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a azul. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "8": {
+    "nome": "Estrela Amarela Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a amarela. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "9": {
+    "nome": "Lua Vermelha Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a vermelha. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "10": {
+    "nome": "Cachorro Branco Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a branco. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "11": {
+    "nome": "Macaco Azul Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a azul. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "12": {
+    "nome": "Humano Amarelo Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a amarelo. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "13": {
+    "nome": "Caminhante do Céu Vermelho Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a vermelho. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "14": {
+    "nome": "Mago Branco Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a branco. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "15": {
+    "nome": "Águia Azul Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a azul. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "16": {
+    "nome": "Guerreiro Amarelo Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a amarelo. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "17": {
+    "nome": "Terra Vermelha Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a vermelha. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "18": {
+    "nome": "Espelho Branco Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a branco. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "19": {
+    "nome": "Tempestade Azul Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a azul. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "20": {
+    "nome": "Sol Amarelo Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a amarelo. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "21": {
+    "nome": "Dragão Vermelho Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a vermelho. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "22": {
+    "nome": "Vento Branco Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a branco. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "23": {
+    "nome": "Noite Azul Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a azul. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "24": {
+    "nome": "Semente Amarela Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a amarela. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "25": {
+    "nome": "Serpente Vermelha Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a vermelha. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "26": {
+    "nome": "Enlaçador de Mundos Branco Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a branco. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "27": {
+    "nome": "Mão Azul Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a azul. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "28": {
+    "nome": "Estrela Amarela Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a amarela. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "29": {
+    "nome": "Lua Vermelha Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a vermelha. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "30": {
+    "nome": "Cachorro Branco Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a branco. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "31": {
+    "nome": "Macaco Azul Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a azul. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "32": {
+    "nome": "Humano Amarelo Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a amarelo. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "33": {
+    "nome": "Caminhante do Céu Vermelho Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a vermelho. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "34": {
+    "nome": "Mago Branco Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a branco. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "35": {
+    "nome": "Águia Azul Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a azul. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "36": {
+    "nome": "Guerreiro Amarelo Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a amarelo. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "37": {
+    "nome": "Terra Vermelha Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a vermelha. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "38": {
+    "nome": "Espelho Branco Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a branco. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "39": {
+    "nome": "Tempestade Azul Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a azul. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "40": {
+    "nome": "Sol Amarelo Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a amarelo. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "41": {
+    "nome": "Dragão Vermelho Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a vermelho. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "42": {
+    "nome": "Vento Branco Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a branco. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "43": {
+    "nome": "Noite Azul Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a azul. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "44": {
+    "nome": "Semente Amarela Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a amarela. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "45": {
+    "nome": "Serpente Vermelha Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a vermelha. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "46": {
+    "nome": "Enlaçador de Mundos Branco Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a branco. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "47": {
+    "nome": "Mão Azul Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a azul. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "48": {
+    "nome": "Estrela Amarela Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a amarela. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "49": {
+    "nome": "Lua Vermelha Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a vermelha. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "50": {
+    "nome": "Cachorro Branco Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a branco. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "51": {
+    "nome": "Macaco Azul Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a azul. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "52": {
+    "nome": "Humano Amarelo Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a amarelo. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "53": {
+    "nome": "Caminhante do Céu Vermelho Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a vermelho. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "54": {
+    "nome": "Mago Branco Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a branco. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "55": {
+    "nome": "Águia Azul Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a azul. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "56": {
+    "nome": "Guerreiro Amarelo Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a amarelo. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "57": {
+    "nome": "Terra Vermelha Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a vermelha. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "58": {
+    "nome": "Espelho Branco Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a branco. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "59": {
+    "nome": "Tempestade Azul Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a azul. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "60": {
+    "nome": "Sol Amarelo Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a amarelo. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "61": {
+    "nome": "Dragão Vermelho Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a vermelho. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "62": {
+    "nome": "Vento Branco Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a branco. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "63": {
+    "nome": "Noite Azul Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a azul. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "64": {
+    "nome": "Semente Amarela Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a amarela. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "65": {
+    "nome": "Serpente Vermelha Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a vermelha. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "66": {
+    "nome": "Enlaçador de Mundos Branco Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a branco. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "67": {
+    "nome": "Mão Azul Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a azul. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "68": {
+    "nome": "Estrela Amarela Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a amarela. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "69": {
+    "nome": "Lua Vermelha Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a vermelha. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "70": {
+    "nome": "Cachorro Branco Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a branco. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "71": {
+    "nome": "Macaco Azul Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a azul. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "72": {
+    "nome": "Humano Amarelo Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a amarelo. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "73": {
+    "nome": "Caminhante do Céu Vermelho Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a vermelho. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "74": {
+    "nome": "Mago Branco Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a branco. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "75": {
+    "nome": "Águia Azul Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a azul. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "76": {
+    "nome": "Guerreiro Amarelo Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a amarelo. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "77": {
+    "nome": "Terra Vermelha Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a vermelha. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "78": {
+    "nome": "Espelho Branco Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a branco. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "79": {
+    "nome": "Tempestade Azul Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a azul. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "80": {
+    "nome": "Sol Amarelo Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a amarelo. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "81": {
+    "nome": "Dragão Vermelho Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a vermelho. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "82": {
+    "nome": "Vento Branco Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a branco. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "83": {
+    "nome": "Noite Azul Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a azul. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "84": {
+    "nome": "Semente Amarela Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a amarela. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "85": {
+    "nome": "Serpente Vermelha Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a vermelha. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "86": {
+    "nome": "Enlaçador de Mundos Branco Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a branco. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "87": {
+    "nome": "Mão Azul Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a azul. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "88": {
+    "nome": "Estrela Amarela Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a amarela. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "89": {
+    "nome": "Lua Vermelha Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a vermelha. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "90": {
+    "nome": "Cachorro Branco Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a branco. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "91": {
+    "nome": "Macaco Azul Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a azul. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "92": {
+    "nome": "Humano Amarelo Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a amarelo. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "93": {
+    "nome": "Caminhante do Céu Vermelho Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a vermelho. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "94": {
+    "nome": "Mago Branco Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a branco. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "95": {
+    "nome": "Águia Azul Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a azul. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "96": {
+    "nome": "Guerreiro Amarelo Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a amarelo. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "97": {
+    "nome": "Terra Vermelha Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a vermelha. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "98": {
+    "nome": "Espelho Branco Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a branco. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "99": {
+    "nome": "Tempestade Azul Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a azul. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "100": {
+    "nome": "Sol Amarelo Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a amarelo. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "101": {
+    "nome": "Dragão Vermelho Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a vermelho. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "102": {
+    "nome": "Vento Branco Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a branco. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "103": {
+    "nome": "Noite Azul Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a azul. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "104": {
+    "nome": "Semente Amarela Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a amarela. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "105": {
+    "nome": "Serpente Vermelha Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a vermelha. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "106": {
+    "nome": "Enlaçador de Mundos Branco Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a branco. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "107": {
+    "nome": "Mão Azul Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a azul. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "108": {
+    "nome": "Estrela Amarela Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a amarela. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "109": {
+    "nome": "Lua Vermelha Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a vermelha. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "110": {
+    "nome": "Cachorro Branco Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a branco. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "111": {
+    "nome": "Macaco Azul Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a azul. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "112": {
+    "nome": "Humano Amarelo Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a amarelo. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "113": {
+    "nome": "Caminhante do Céu Vermelho Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a vermelho. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "114": {
+    "nome": "Mago Branco Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a branco. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "115": {
+    "nome": "Águia Azul Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a azul. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "116": {
+    "nome": "Guerreiro Amarelo Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a amarelo. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "117": {
+    "nome": "Terra Vermelha Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a vermelha. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "118": {
+    "nome": "Espelho Branco Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a branco. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "119": {
+    "nome": "Tempestade Azul Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a azul. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "120": {
+    "nome": "Sol Amarelo Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a amarelo. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "121": {
+    "nome": "Dragão Vermelho Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a vermelho. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "122": {
+    "nome": "Vento Branco Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a branco. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "123": {
+    "nome": "Noite Azul Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a azul. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "124": {
+    "nome": "Semente Amarela Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a amarela. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "125": {
+    "nome": "Serpente Vermelha Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a vermelha. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "126": {
+    "nome": "Enlaçador de Mundos Branco Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a branco. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "127": {
+    "nome": "Mão Azul Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a azul. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "128": {
+    "nome": "Estrela Amarela Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a amarela. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "129": {
+    "nome": "Lua Vermelha Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a vermelha. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "130": {
+    "nome": "Cachorro Branco Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a branco. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "131": {
+    "nome": "Macaco Azul Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a azul. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "132": {
+    "nome": "Humano Amarelo Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a amarelo. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "133": {
+    "nome": "Caminhante do Céu Vermelho Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a vermelho. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "134": {
+    "nome": "Mago Branco Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a branco. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "135": {
+    "nome": "Águia Azul Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a azul. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "136": {
+    "nome": "Guerreiro Amarelo Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a amarelo. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "137": {
+    "nome": "Terra Vermelha Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a vermelha. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "138": {
+    "nome": "Espelho Branco Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a branco. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "139": {
+    "nome": "Tempestade Azul Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a azul. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "140": {
+    "nome": "Sol Amarelo Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a amarelo. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "141": {
+    "nome": "Dragão Vermelho Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a vermelho. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "142": {
+    "nome": "Vento Branco Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a branco. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "143": {
+    "nome": "Noite Azul Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a azul. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "144": {
+    "nome": "Semente Amarela Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a amarela. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "145": {
+    "nome": "Serpente Vermelha Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a vermelha. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "146": {
+    "nome": "Enlaçador de Mundos Branco Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a branco. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "147": {
+    "nome": "Mão Azul Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a azul. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "148": {
+    "nome": "Estrela Amarela Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a amarela. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "149": {
+    "nome": "Lua Vermelha Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a vermelha. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "150": {
+    "nome": "Cachorro Branco Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a branco. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "151": {
+    "nome": "Macaco Azul Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a azul. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "152": {
+    "nome": "Humano Amarelo Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a amarelo. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "153": {
+    "nome": "Caminhante do Céu Vermelho Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a vermelho. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "154": {
+    "nome": "Mago Branco Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a branco. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "155": {
+    "nome": "Águia Azul Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a azul. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "156": {
+    "nome": "Guerreiro Amarelo Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a amarelo. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "157": {
+    "nome": "Terra Vermelha Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a vermelha. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "158": {
+    "nome": "Espelho Branco Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a branco. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "159": {
+    "nome": "Tempestade Azul Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a azul. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "160": {
+    "nome": "Sol Amarelo Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a amarelo. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "161": {
+    "nome": "Dragão Vermelho Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a vermelho. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "162": {
+    "nome": "Vento Branco Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a branco. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "163": {
+    "nome": "Noite Azul Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a azul. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "164": {
+    "nome": "Semente Amarela Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a amarela. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "165": {
+    "nome": "Serpente Vermelha Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a vermelha. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "166": {
+    "nome": "Enlaçador de Mundos Branco Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a branco. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "167": {
+    "nome": "Mão Azul Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a azul. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "168": {
+    "nome": "Estrela Amarela Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a amarela. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "169": {
+    "nome": "Lua Vermelha Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a vermelha. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "170": {
+    "nome": "Cachorro Branco Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a branco. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "171": {
+    "nome": "Macaco Azul Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a azul. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "172": {
+    "nome": "Humano Amarelo Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a amarelo. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "173": {
+    "nome": "Caminhante do Céu Vermelho Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a vermelho. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "174": {
+    "nome": "Mago Branco Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a branco. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "175": {
+    "nome": "Águia Azul Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a azul. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "176": {
+    "nome": "Guerreiro Amarelo Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a amarelo. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "177": {
+    "nome": "Terra Vermelha Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a vermelha. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "178": {
+    "nome": "Espelho Branco Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a branco. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "179": {
+    "nome": "Tempestade Azul Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a azul. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "180": {
+    "nome": "Sol Amarelo Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a amarelo. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "181": {
+    "nome": "Dragão Vermelho Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a vermelho. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "182": {
+    "nome": "Vento Branco Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a branco. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "183": {
+    "nome": "Noite Azul Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a azul. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "184": {
+    "nome": "Semente Amarela Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a amarela. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "185": {
+    "nome": "Serpente Vermelha Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a vermelha. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "186": {
+    "nome": "Enlaçador de Mundos Branco Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a branco. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "187": {
+    "nome": "Mão Azul Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a azul. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "188": {
+    "nome": "Estrela Amarela Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a amarela. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "189": {
+    "nome": "Lua Vermelha Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a vermelha. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "190": {
+    "nome": "Cachorro Branco Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a branco. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "191": {
+    "nome": "Macaco Azul Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a azul. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "192": {
+    "nome": "Humano Amarelo Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a amarelo. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "193": {
+    "nome": "Caminhante do Céu Vermelho Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a vermelho. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "194": {
+    "nome": "Mago Branco Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a branco. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "195": {
+    "nome": "Águia Azul Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a azul. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "196": {
+    "nome": "Guerreiro Amarelo Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a amarelo. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "197": {
+    "nome": "Terra Vermelha Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a vermelha. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "198": {
+    "nome": "Espelho Branco Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a branco. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "199": {
+    "nome": "Tempestade Azul Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a azul. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "200": {
+    "nome": "Sol Amarelo Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a amarelo. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "201": {
+    "nome": "Dragão Vermelho Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a vermelho. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "202": {
+    "nome": "Vento Branco Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a branco. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "203": {
+    "nome": "Noite Azul Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a azul. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "204": {
+    "nome": "Semente Amarela Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a amarela. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "205": {
+    "nome": "Serpente Vermelha Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a vermelha. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "206": {
+    "nome": "Enlaçador de Mundos Branco Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a branco. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "207": {
+    "nome": "Mão Azul Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a azul. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "208": {
+    "nome": "Estrela Amarela Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a amarela. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "209": {
+    "nome": "Lua Vermelha Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a vermelha. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "210": {
+    "nome": "Cachorro Branco Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a branco. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "211": {
+    "nome": "Macaco Azul Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a azul. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "212": {
+    "nome": "Humano Amarelo Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a amarelo. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "213": {
+    "nome": "Caminhante do Céu Vermelho Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a vermelho. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "214": {
+    "nome": "Mago Branco Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a branco. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "215": {
+    "nome": "Águia Azul Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a azul. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "216": {
+    "nome": "Guerreiro Amarelo Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a amarelo. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "217": {
+    "nome": "Terra Vermelha Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a vermelha. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "218": {
+    "nome": "Espelho Branco Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a branco. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "219": {
+    "nome": "Tempestade Azul Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a azul. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "220": {
+    "nome": "Sol Amarelo Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a amarelo. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "221": {
+    "nome": "Dragão Vermelho Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a vermelho. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "222": {
+    "nome": "Vento Branco Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a branco. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "223": {
+    "nome": "Noite Azul Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a azul. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "224": {
+    "nome": "Semente Amarela Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a amarela. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "225": {
+    "nome": "Serpente Vermelha Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a vermelha. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "226": {
+    "nome": "Enlaçador de Mundos Branco Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a branco. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "227": {
+    "nome": "Mão Azul Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a azul. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "228": {
+    "nome": "Estrela Amarela Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a amarela. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "229": {
+    "nome": "Lua Vermelha Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a vermelha. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "230": {
+    "nome": "Cachorro Branco Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a branco. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "231": {
+    "nome": "Macaco Azul Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a azul. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "232": {
+    "nome": "Humano Amarelo Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a amarelo. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "233": {
+    "nome": "Caminhante do Céu Vermelho Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a vermelho. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "234": {
+    "nome": "Mago Branco Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a branco. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "235": {
+    "nome": "Águia Azul Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a azul. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "236": {
+    "nome": "Guerreiro Amarelo Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a amarelo. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "237": {
+    "nome": "Terra Vermelha Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a vermelha. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "238": {
+    "nome": "Espelho Branco Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a branco. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "239": {
+    "nome": "Tempestade Azul Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a azul. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "240": {
+    "nome": "Sol Amarelo Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a amarelo. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  },
+  "241": {
+    "nome": "Dragão Vermelho Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a vermelho. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do caminhante.",
+    "guia": "Caminhante do Céu Vermelho",
+    "antipoda": "Macaco Azul",
+    "oculto": "Sol Amarelo",
+    "apoio": "Vento Branco"
+  },
+  "242": {
+    "nome": "Vento Branco Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a branco. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do mago.",
+    "guia": "Mago Branco",
+    "antipoda": "Humano Amarelo",
+    "oculto": "Tempestade Azul",
+    "apoio": "Noite Azul"
+  },
+  "243": {
+    "nome": "Noite Azul Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a azul. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do águia.",
+    "guia": "Águia Azul",
+    "antipoda": "Caminhante do Céu Vermelho",
+    "oculto": "Espelho Branco",
+    "apoio": "Semente Amarela"
+  },
+  "244": {
+    "nome": "Semente Amarela Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a amarela. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do guerreiro.",
+    "guia": "Guerreiro Amarelo",
+    "antipoda": "Mago Branco",
+    "oculto": "Terra Vermelha",
+    "apoio": "Serpente Vermelha"
+  },
+  "245": {
+    "nome": "Serpente Vermelha Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a vermelha. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do terra.",
+    "guia": "Terra Vermelha",
+    "antipoda": "Águia Azul",
+    "oculto": "Guerreiro Amarelo",
+    "apoio": "Enlaçador de Mundos Branco"
+  },
+  "246": {
+    "nome": "Enlaçador de Mundos Branco Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a branco. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do espelho.",
+    "guia": "Espelho Branco",
+    "antipoda": "Guerreiro Amarelo",
+    "oculto": "Águia Azul",
+    "apoio": "Mão Azul"
+  },
+  "247": {
+    "nome": "Mão Azul Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a azul. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do tempestade.",
+    "guia": "Tempestade Azul",
+    "antipoda": "Terra Vermelha",
+    "oculto": "Mago Branco",
+    "apoio": "Estrela Amarela"
+  },
+  "248": {
+    "nome": "Estrela Amarela Magnético",
+    "mensagem": "Potencializo com o fim de atração. Comandando a amarela. Selo o armazém da realização com o tom magnético da atração. Eu sou guiado pelo poder do sol.",
+    "guia": "Sol Amarelo",
+    "antipoda": "Espelho Branco",
+    "oculto": "Caminhante do Céu Vermelho",
+    "apoio": "Lua Vermelha"
+  },
+  "249": {
+    "nome": "Lua Vermelha Lunar",
+    "mensagem": "Potencializo com o fim de desafio. Comandando a vermelha. Selo o armazém da realização com o tom lunar da desafio. Eu sou guiado pelo poder do dragão.",
+    "guia": "Dragão Vermelho",
+    "antipoda": "Tempestade Azul",
+    "oculto": "Humano Amarelo",
+    "apoio": "Cachorro Branco"
+  },
+  "250": {
+    "nome": "Cachorro Branco Elétrico",
+    "mensagem": "Potencializo com o fim de ativação. Comandando a branco. Selo o armazém da realização com o tom elétrico da ativação. Eu sou guiado pelo poder do vento.",
+    "guia": "Vento Branco",
+    "antipoda": "Sol Amarelo",
+    "oculto": "Macaco Azul",
+    "apoio": "Macaco Azul"
+  },
+  "251": {
+    "nome": "Macaco Azul Autoexistente",
+    "mensagem": "Potencializo com o fim de forma. Comandando a azul. Selo o armazém da realização com o tom autoexistente da forma. Eu sou guiado pelo poder do noite.",
+    "guia": "Noite Azul",
+    "antipoda": "Dragão Vermelho",
+    "oculto": "Cachorro Branco",
+    "apoio": "Humano Amarelo"
+  },
+  "252": {
+    "nome": "Humano Amarelo Harmônico",
+    "mensagem": "Potencializo com o fim de radiação. Comandando a amarelo. Selo o armazém da realização com o tom harmônico da radiação. Eu sou guiado pelo poder do semente.",
+    "guia": "Semente Amarela",
+    "antipoda": "Vento Branco",
+    "oculto": "Lua Vermelha",
+    "apoio": "Caminhante do Céu Vermelho"
+  },
+  "253": {
+    "nome": "Caminhante do Céu Vermelho Rítmico",
+    "mensagem": "Potencializo com o fim de igualdade. Comandando a vermelho. Selo o armazém da realização com o tom rítmico da igualdade. Eu sou guiado pelo poder do serpente.",
+    "guia": "Serpente Vermelha",
+    "antipoda": "Noite Azul",
+    "oculto": "Estrela Amarela",
+    "apoio": "Mago Branco"
+  },
+  "254": {
+    "nome": "Mago Branco Ressonante",
+    "mensagem": "Potencializo com o fim de sintonia. Comandando a branco. Selo o armazém da realização com o tom ressonante da sintonia. Eu sou guiado pelo poder do enlaçador.",
+    "guia": "Enlaçador de Mundos Branco",
+    "antipoda": "Semente Amarela",
+    "oculto": "Mão Azul",
+    "apoio": "Águia Azul"
+  },
+  "255": {
+    "nome": "Águia Azul Galáctico",
+    "mensagem": "Potencializo com o fim de integridade. Comandando a azul. Selo o armazém da realização com o tom galáctico da integridade. Eu sou guiado pelo poder do mão.",
+    "guia": "Mão Azul",
+    "antipoda": "Serpente Vermelha",
+    "oculto": "Enlaçador de Mundos Branco",
+    "apoio": "Guerreiro Amarelo"
+  },
+  "256": {
+    "nome": "Guerreiro Amarelo Solar",
+    "mensagem": "Potencializo com o fim de intenção. Comandando a amarelo. Selo o armazém da realização com o tom solar da intenção. Eu sou guiado pelo poder do estrela.",
+    "guia": "Estrela Amarela",
+    "antipoda": "Enlaçador de Mundos Branco",
+    "oculto": "Serpente Vermelha",
+    "apoio": "Terra Vermelha"
+  },
+  "257": {
+    "nome": "Terra Vermelha Planetário",
+    "mensagem": "Potencializo com o fim de manifestação. Comandando a vermelha. Selo o armazém da realização com o tom planetário da manifestação. Eu sou guiado pelo poder do lua.",
+    "guia": "Lua Vermelha",
+    "antipoda": "Mão Azul",
+    "oculto": "Semente Amarela",
+    "apoio": "Espelho Branco"
+  },
+  "258": {
+    "nome": "Espelho Branco Espectral",
+    "mensagem": "Potencializo com o fim de liberação. Comandando a branco. Selo o armazém da realização com o tom espectral da liberação. Eu sou guiado pelo poder do cachorro.",
+    "guia": "Cachorro Branco",
+    "antipoda": "Estrela Amarela",
+    "oculto": "Noite Azul",
+    "apoio": "Tempestade Azul"
+  },
+  "259": {
+    "nome": "Tempestade Azul Cristal",
+    "mensagem": "Potencializo com o fim de cooperação. Comandando a azul. Selo o armazém da realização com o tom cristal da cooperação. Eu sou guiado pelo poder do macaco.",
+    "guia": "Macaco Azul",
+    "antipoda": "Lua Vermelha",
+    "oculto": "Vento Branco",
+    "apoio": "Sol Amarelo"
+  },
+  "260": {
+    "nome": "Sol Amarelo Cósmico",
+    "mensagem": "Potencializo com o fim de presença. Comandando a amarelo. Selo o armazém da realização com o tom cósmico da presença. Eu sou guiado pelo poder do humano.",
+    "guia": "Humano Amarelo",
+    "antipoda": "Cachorro Branco",
+    "oculto": "Dragão Vermelho",
+    "apoio": "Dragão Vermelho"
+  }
+}
